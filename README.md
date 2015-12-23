@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 == README
 
 This README would normally document whatever steps are necessary to get the
@@ -26,3 +27,9 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+=======
+Learning Rails
+==
+
+Learning Rails with a tutorial from the RailsApps project.
+>>>>>>> 917cbe5e41be9d2334aefa3ef9433e9beadd499a
